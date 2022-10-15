@@ -1,6 +1,6 @@
 # quiz_three
 
-A new flutter module project.
+email me to get the build missing folder
 
 ## Getting Started
 
